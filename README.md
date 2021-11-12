@@ -214,7 +214,7 @@ disqus_username: qiubaiying
 
 **使用：**
 
-参考我的这篇文章：[《为博客添加 Gitalk 评论插件》](http://qiubaiying.top/2017/12/19/%E4%B8%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0-Gitalk-%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6/)
+参考文章：[《为博客添加 Gitalk 评论插件》](https://cloud.tencent.com/developer/article/1121086)
 
 
 ### Analytics
@@ -273,7 +273,7 @@ ga_domain: huangxuan.me			# 默认的是 auto, 这里我是自定义了的域名
 
 ## 致谢
 
-1. 这个模板是从这里 [Hux](https://github.com/Huxpro/huxpro.github.io) fork 的, 感谢这个作者。 
+1. fork自[qiubaiying](https://github.com/qiubaiying/qiubaiying.github.io), 感谢作者。 
 2. 感谢 Jekyll、Github Pages 和 Bootstrap!
 
 ## License
